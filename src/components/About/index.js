@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../../assets/large/Profile/Profile_Pic.png";
+import profileImage from "./public/image/me.jpg";
 function About() {
   return (
     <section id="about-me" className="my-5 intro">
@@ -18,14 +18,14 @@ function About() {
             Hello, my name is Myleen Grace Santana. I am currently living in the County of riverside.
             <b>My Background:</b> Greetings, alittle about myself is Im from Moreno valley born and 
             raised. I am 27 years old. One thing about me is that I like diving into challenges as 
-            you can see, I jumped head first into a coding bootcamp with out prior experience. My background was originally medical which I really enjoyed but I also am wanting to learning something different.</b> 
+            you can see, I jumped head first into a coding bootcamp with out prior experience. My background was originally medical which I really enjoyed but I also am wanting to learning something different. 
             <b>My Career Transition:</b>
             I decided to do a career transition because I discovered that I like tech! 
             At my current job Im always problem solving helping my coworker with this computer issues. 
             It may not be coding but that what started my interest. So then I starting doing my research 
             and I discovered that coding might just be for me. Yes it has its challenges. I experienced many durning my program 
             but I believe it unlocked and is unlocking my potentials. This is why I decided to choose a career change. 
-            Im happy that I did.</b> 
+            Im happy that I did.
             <b>My Boot Camp Experience:</b> The boot camp was intense and
             transformative. Over several months, I immersed myself in coding,
             learning various programming languages, and honing my
